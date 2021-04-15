@@ -2,6 +2,17 @@
     margin-top: 16px;
 }
 
+/* burger */
+.Burger {
+    width: 100%;
+    margin: auto;
+    height: 400px;
+    overflow: scroll;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
 /* burger ingredient styles */
 .BreadBottom {
     height: 13%;
